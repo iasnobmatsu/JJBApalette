@@ -4,10 +4,12 @@
 \alias{jolyne_palette}
 \title{jolyne palette}
 \usage{
-jolyne_palette(n, type = c("discrete", "continuous"))
+jolyne_palette(n, name = "anime", type = c("discrete", "continuous"))
 }
 \arguments{
 \item{n}{number of colors}
+
+\item{name}{anime or manga}
 
 \item{type}{discrete or continuous}
 }

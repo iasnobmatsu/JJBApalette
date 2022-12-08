@@ -4,9 +4,11 @@
 \alias{scale_color_jolyne}
 \title{scale color jolyne}
 \usage{
-scale_color_jolyne(type = "continuous")
+scale_color_jolyne(name = "anime", type = "continuous")
 }
 \arguments{
+\item{name}{anime or manga}
+
 \item{type}{discrete or continuous}
 }
 \value{

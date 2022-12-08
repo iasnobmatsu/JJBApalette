@@ -4,9 +4,11 @@
 \alias{scale_fill_jolyne}
 \title{scale fill jolyne}
 \usage{
-scale_fill_jolyne(type = "continuous")
+scale_fill_jolyne(name = "anime", type = "continuous")
 }
 \arguments{
+\item{name}{anime or manga}
+
 \item{type}{discrete or continuous}
 }
 \value{

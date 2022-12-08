@@ -1,8 +1,8 @@
 Package: JJBApalette
 Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9001
+Version: 0.0.0.9002
 Authors@R: 
-    person("Ziqian", "Xu", "", role = c("aut", "cre"),
+    person(given="Ziqian", family="Xu", email="xuclara98@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
 License: use_mit_license()

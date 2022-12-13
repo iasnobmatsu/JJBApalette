@@ -32,27 +32,27 @@ The package can be used with ggplot2. For example, for the character Jolyne Cujo
 
 ##### Jonathan Joestar
 
-![man/figs/jonathan.png]{width=400px}
+<img width=400px src="man/figs/jonathan.png" />
 
 ##### Joseph Joestar
 
-![man/figs/joseph.png]{width=400px}
+<img width=400px src="man/figs/joseph.png" />
 
 ##### Kujo Jotaro
 
-![man/figs/jotaro.png]{width=400px}
+<img width=400px src="man/figs/jotaro.png" />
 
 ##### Higashiyama Josuke
 
-![man/figs/josuke.png]{width=400px}
+<img width=400px src="man/figs/josuke.png" />
 
 ##### Giorno Giovanna
 
-![man/figs/giorno.png]{width=400px}
+<img width=400px src="man/figs/giorno.png" />
 
 ##### Jolyne Cujoh
 
-![man/figs/jolyne.png]{width=400px}
+<img width=400px src="man/figs/jolyne.png" />
 
 
 ### Acknowledgement

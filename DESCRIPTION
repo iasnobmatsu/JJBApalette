@@ -1,10 +1,10 @@
 Package: JJBApalette
 Title: Color Palettes Inspired by JoJo's Bizzare Adventure
-Version: 0.0.0.9004
+Version: 1.0.0.0000
 Authors@R: 
     person(given="Ziqian", family="Xu", email="xuclara98@gmail.com", role = c("aut", "cre"))
 Description: The package provides color palettes inspired by characters/stands in JoJo's Bizzare Adventure that can be used in ggplot2 functions. 
-License: use_mit_license()
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.2
